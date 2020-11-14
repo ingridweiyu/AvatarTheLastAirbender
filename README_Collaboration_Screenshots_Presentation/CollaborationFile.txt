@@ -1,0 +1,30 @@
+Our project was created by Dareen Atallah, Weiyu Huang, Peter Liu, and Vincent Robbins. Many, 
+many hours and group meetings were held to get this project completed. At the very beginning 
+we met and created the idea of the game and what each level will consist of, giving us all 
+the same expectations of where to take our project each week. To point out who did what is 
+very difficult because there was much collaboration. After each week each person’s newest 
+code was merged together and resent out to the group allowing any member to edit and add 
+and any features they liked to see or fix any features that were not working correctly.
+ Everyone worked on all the files to make sure it was coded the best it can be.
+
+The top three specs we spent the most time on in no particular order:
+
+Dareen:
+- Health mechanisms
+- User experience and memory management
+- Game design and documentation of functionality 
+
+Weiyu:
+- Basic functionality of game and object interaction
+- Implementation of class hierarchy 
+- Game graphics design and sound effects 
+
+Peter:
+- Boss level, enemy, and game mechanics/animations
+- Optimization of class hierarchy
+- Weekly merge and connection of members’ progress
+
+Vince: 
+- Program efficiency/computational complexity
+- Input handling
+- Player abilities
